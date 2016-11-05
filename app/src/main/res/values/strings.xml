@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VideoShare</string>
+    <string name="net_work_err_layout_tips">网络连接不可用\n点击刷新</string>
+    <string name="newest_tab_text">最新</string>
+    <string name="video_tab_text">视频</string>
+    <string name="topic_tab_text">话题</string>
+    <string name="mine_tab_text">我的</string>
+</resources>

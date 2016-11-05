@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/white"
+              android:orientation="horizontal">
+
+    <com.sivin.videoshare.ui.main.BottomTab
+        android:id="@+id/newest_tab"
+        android:layout_width="0dp"
+        android:layout_height="46dp"
+        android:layout_weight="1"/>
+
+    <com.sivin.videoshare.ui.main.BottomTab
+        android:id="@+id/video_tab"
+        android:layout_width="0dp"
+        android:layout_height="46dp"
+        android:layout_weight="1"/>
+
+    <com.sivin.videoshare.ui.main.BottomTab
+        android:id="@+id/topic_tab"
+        android:layout_width="0dp"
+        android:layout_height="46dp"
+        android:layout_weight="1"/>
+
+    <com.sivin.videoshare.ui.main.BottomTab
+        android:id="@+id/mine_tab"
+        android:layout_width="0dp"
+        android:layout_height="46dp"
+        android:layout_weight="1"/>
+
+
+</LinearLayout>

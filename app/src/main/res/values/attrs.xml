@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="BottomTab">
+        <attr name="tab_image" format="reference"/>
+        <attr name="tab_text" format="string"/>
+    </declare-styleable>
+
+
+</resources>
